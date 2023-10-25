@@ -1,0 +1,110 @@
+/* debut NAVBAR */
+.font20{
+    font-size: 20px;
+    color:white;
+    
+}
+.font20:hover{
+    color:#F79BD3;
+}
+.font20:focus{
+    color: #F79BD3;
+}
+.nav22{
+  
+    background-color:#241468; /* For browsers that do not support gradients */
+  
+}
+.plusnav{
+    font-size: 20px;
+    color:white;
+}
+.plusItem{
+    font-size: 20px;
+    color:black;
+    
+}
+.plusItem:hover{
+    color:brown;
+}
+
+#useid{
+    font-size: 20px;
+}
+
+.searchBtn{
+    padding-top: 5px;
+    margin-top: 10px;
+    height: 35px;
+    font-size: 15px;
+    background-color: #9F0D7F;
+    border-color: #9F0D7F;
+}
+.searchBtn:hover{
+    color:white;
+    background-color: #EA1179;
+    border-color: #9F0D7F;
+}
+.searchBtn:focus{
+   
+    color: white;
+    background-color: #EA1179;
+    border-color:#EA1179;
+}
+.searchInp{
+    margin-top: 10px;
+    min-width: 100px;
+    height: 35px;
+    font-size: 15px;
+
+    
+}
+/* FIN NAVBAR */
+
+/* DEB MOVIES */
+
+.cardMovie{
+    
+    font-size: 20px;
+    height: auto;
+    background-color: #241468;
+    color: white;
+    margin-bottom: auto;
+}
+
+.cardMovieInside{
+    
+    background-color: #241468;
+    color: white;
+}
+.cardMovieText{
+    font-size: 15px;
+    color: white;
+
+}
+.btnMovie{
+    margin: auto;
+    width: 150px;
+    font-size: 12px;
+    padding-top: 3px;
+    margin-bottom: auto;
+    background-color: #9F0D7F;
+    /*background-image: linear-gradient(0deg, white, #EA1179);*/
+    border-color: white;
+}
+
+
+.imgMovie{
+    width: 200px;
+    
+}
+.fa-star:hover {
+    color: orange;
+  }
+
+  .chekedtrue {
+    color: orange;
+  }
+
+/* FIN NAVBAR */
+

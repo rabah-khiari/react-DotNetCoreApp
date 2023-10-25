@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="APIusers20230731155546" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Csharp\\projectUdemy\\APIusers\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="APIusers.Models.ApplicationDbContext" description="" value="Data Source=apiusersdbserver.database.windows.net,1433;Initial Catalog=APIusers_db;User ID=adminrabah;Password=@Rabahusma007" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Csharp\\projectUdemy\\APIusers\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\APIusers\.Models\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #241468;
+  font-style: italic;
+  color: white;
+  
+}
+.appDiv
+{
+  margin: auto;
+  width: 90%;
+}
